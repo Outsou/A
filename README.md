@@ -1,4 +1,1 @@
-A
-=
-
-Tämä on a.
+Tämä on A ja B
